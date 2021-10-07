@@ -1,0 +1,181 @@
+,0,1,2
+0,auction scam,1999,1
+1,auction scam,2000,1
+2,auction scam,2001,5
+3,auction scam,2002,5
+4,auction scam,2003,3
+5,auction scam,2004,4
+6,auction scam,2005,6
+7,auction scam,2006,9
+8,auction scam,2007,12
+9,auction scam,2008,7
+10,auction scam,2009,8
+11,auction scam,2010,10
+12,auction scam,2011,4
+13,auction scam,2012,6
+14,auction scam,2013,3
+15,auction scam,2014,7
+16,auction scam,2015,8
+17,auction scam,2016,8
+18,auction scam,2017,6
+19,auction scam,2018,7
+20,auction scam,2019,4
+21,auction scam,2020,2
+22,bank scam,2000,8
+23,bank scam,2001,10
+24,bank scam,2002,5
+25,bank scam,2003,10
+26,bank scam,2004,8
+27,bank scam,2005,3
+28,bank scam,2006,3
+29,bank scam,2007,6
+30,bank scam,2008,9
+31,bank scam,2009,9
+32,bank scam,2010,15
+33,bank scam,2011,18
+34,bank scam,2012,15
+35,bank scam,2013,18
+36,bank scam,2014,29
+37,bank scam,2015,21
+38,bank scam,2016,34
+39,bank scam,2017,29
+40,bank scam,2018,42
+41,bank scam,2019,28
+42,bank scam,2020,48
+43,bank scam,2021,6
+44,consumer scam,2000,5
+45,consumer scam,2001,19
+46,consumer scam,2002,23
+47,consumer scam,2003,21
+48,consumer scam,2004,13
+49,consumer scam,2005,15
+50,consumer scam,2006,16
+51,consumer scam,2007,18
+52,consumer scam,2008,20
+53,consumer scam,2009,23
+54,consumer scam,2010,16
+55,consumer scam,2011,31
+56,consumer scam,2012,24
+57,consumer scam,2013,23
+58,consumer scam,2014,49
+59,consumer scam,2015,48
+60,consumer scam,2016,42
+61,consumer scam,2017,53
+62,consumer scam,2018,45
+63,consumer scam,2019,65
+64,consumer scam,2020,68
+65,consumer scam,2021,13
+66,investment,2001,1
+67,investment,2002,3
+68,investment,2003,1
+69,investment,2004,1
+70,investment,2006,2
+71,investment,2007,1
+72,investment,2008,2
+73,investment,2010,2
+74,investment,2012,3
+75,investment,2013,2
+76,investment,2014,1
+77,investment,2015,3
+78,investment,2016,8
+79,investment,2017,4
+80,investment,2018,10
+81,investment,2019,10
+82,investment,2020,7
+83,investment,2021,2
+84,others,1998,1
+85,others,1999,1
+86,others,2000,31
+87,others,2001,49
+88,others,2002,57
+89,others,2003,60
+90,others,2004,103
+91,others,2005,51
+92,others,2006,68
+93,others,2007,98
+94,others,2008,95
+95,others,2009,107
+96,others,2010,134
+97,others,2011,126
+98,others,2012,158
+99,others,2013,197
+100,others,2014,248
+101,others,2015,209
+102,others,2016,304
+103,others,2017,368
+104,others,2018,380
+105,others,2019,473
+106,others,2020,446
+107,others,2021,87
+108,recruitment scam,2004,1
+109,recruitment scam,2005,1
+110,recruitment scam,2006,1
+111,recruitment scam,2007,2
+112,recruitment scam,2009,1
+113,recruitment scam,2010,1
+114,recruitment scam,2011,3
+115,recruitment scam,2012,2
+116,recruitment scam,2013,3
+117,recruitment scam,2014,1
+118,recruitment scam,2015,2
+119,recruitment scam,2016,2
+120,recruitment scam,2017,9
+121,recruitment scam,2018,3
+122,recruitment scam,2019,10
+123,recruitment scam,2020,10
+124,recruitment scam,2021,1
+125,romance scam,2001,1
+126,romance scam,2007,1
+127,romance scam,2012,2
+128,romance scam,2013,1
+129,romance scam,2014,1
+130,romance scam,2015,2
+131,romance scam,2016,6
+132,romance scam,2017,3
+133,romance scam,2018,6
+134,romance scam,2019,4
+135,romance scam,2020,10
+136,spam emails,2000,1
+137,spam emails,2002,2
+138,spam emails,2003,2
+139,spam emails,2004,7
+140,spam emails,2005,4
+141,spam emails,2006,7
+142,spam emails,2007,16
+143,spam emails,2008,6
+144,spam emails,2009,9
+145,spam emails,2010,10
+146,spam emails,2011,10
+147,spam emails,2012,12
+148,spam emails,2013,19
+149,spam emails,2014,14
+150,spam emails,2015,11
+151,spam emails,2016,24
+152,spam emails,2017,23
+153,spam emails,2018,18
+154,spam emails,2019,31
+155,spam emails,2020,31
+156,spam emails,2021,5
+157,virtual currency scam,2015,2
+158,virtual currency scam,2016,5
+159,virtual currency scam,2017,11
+160,virtual currency scam,2018,34
+161,virtual currency scam,2019,49
+162,virtual currency scam,2020,55
+163,virtual currency scam,2021,10
+164,419 scam,2001,1
+165,419 scam,2004,1
+166,419 scam,2005,1
+167,419 scam,2007,1
+168,419 scam,2010,1
+169,419 scam,2011,2
+170,419 scam,2012,2
+171,419 scam,2013,6
+172,419 scam,2014,3
+173,419 scam,2015,1
+174,419 scam,2016,3
+175,419 scam,2017,3
+176,419 scam,2018,8
+177,419 scam,2019,5
+178,419 scam,2020,8
+179,419 scam,2021,1
